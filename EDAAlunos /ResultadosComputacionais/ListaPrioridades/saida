@@ -81,3 +81,30 @@ Ordenado
 	operacoesR_800000: 693989
 	operacoesS_800000: 759095
 FIM
+
+HeapTernario
+	operacoesI_100: 1
+	operacoesA_100: 1
+	operacoesR_100: 1
+	operacoesS_100: 1
+	operacoesI_10000: 160
+	operacoesA_10000: 29
+	operacoesR_10000: 15
+	operacoesS_10000: 14
+	operacoesI_50000: 352
+	operacoesA_50000: 563
+	operacoesR_50000: 213
+	operacoesS_50000: 322
+	operacoesI_100000: 1361
+	operacoesA_100000: 2017
+	operacoesR_100000: 802
+	operacoesS_100000: 1168
+	operacoesI_500000: 35155
+	operacoesA_500000: 64389
+	operacoesR_500000: 19650
+	operacoesS_500000: 28195
+	operacoesI_800000: 86813
+	operacoesA_800000: 122178
+	operacoesR_800000: 45534
+	operacoesS_800000: 60691
+FIM
