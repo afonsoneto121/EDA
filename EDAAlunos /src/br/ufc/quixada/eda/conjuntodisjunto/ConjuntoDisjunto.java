@@ -37,8 +37,7 @@ public class ConjuntoDisjunto implements ConjuntoDisjuntoI{
 				rank[y]++;
 		
 	}
-	
-	
+		
 	public int findSet(int x) {
 		if(x != pai[x]){
 			pai[x] = findSet(pai[x]);
