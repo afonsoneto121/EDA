@@ -7,11 +7,13 @@ public class Teste {
 		hash.inserir(1, "Afonso");
 		hash.inserir(10, "Afonso2");
 		hash.inserir(20, "Conflito");
-		//hash.inserir(6, "Teste");
-		hash.inserir(3, "Neto");
-		hash.inserir(5, "Fulano");
-		hash.inserir(9, "Tal");
+		hash.inserir(6, "Teste");
+		hash.inserir(12, "Neto");
+		hash.inserir(24, "Fulano");
+		hash.inserir(18, "Tal");
 		System.out.println(hash.toString());
-		
+		System.out.println(hash.remover(1));
+		System.out.println(hash.toString());
+
 	}
 }
