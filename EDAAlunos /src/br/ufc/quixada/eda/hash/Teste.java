@@ -4,6 +4,7 @@ public class Teste {
 	public static void main(String[] args) {
 		Hash<String> hash = new EnderecamentoInterno(10);
 		//Hash<String> hash = new EnderecamentoExterno(10);
+		
 		hash.inserir(1, "Afonso");
 		hash.inserir(10, "Afonso2");
 		hash.inserir(20, "Conflito");
