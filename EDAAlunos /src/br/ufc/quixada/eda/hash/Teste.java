@@ -6,6 +6,7 @@ public class Teste {
 		//Hash<String> hash = new EnderecamentoExterno(10);
 		
 		hash.inserir(1, "Afonso");
+		hash.inserir(28, "Afonso");
 		hash.inserir(10, "Afonso2");
 		hash.inserir(20, "Conflito");
 		hash.inserir(6, "Teste");
