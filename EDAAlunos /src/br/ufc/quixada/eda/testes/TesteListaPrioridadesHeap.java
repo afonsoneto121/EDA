@@ -10,8 +10,10 @@ import br.ufc.quixada.eda.util.EDAUtil;
 import br.ufc.quixada.eda.util.Operacao;
 
 public class TesteListaPrioridadesHeap {
+	/*
 	public static void main(String args[]){		
 		try {
+
 			for (int tamanho : CriarInstancia.tamanhoInstancias) {				
 				String path = EDAConstants.caminhoPasta + "tarefa" + tamanho + ".txt";
 				List<Integer> entrada = EDAUtil.getDadosIniciais(path);
@@ -144,4 +146,5 @@ public class TesteListaPrioridadesHeap {
 		}
 		System.out.println("FIM");
 	}
+	*/
 }

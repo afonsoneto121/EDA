@@ -8,8 +8,8 @@ import java.util.List;
  */
 public class TesteCD {
 	public static void main(String[] args) {	
-		ConjuntoDisjuntoI conjunto = new ConjuntoDisjunto(15);
-		//ConjuntoDisjuntoI conjunto = new ConjuntoDisjuntoLE();
+		//ConjuntoDisjuntoI conjunto = new ConjuntoDisjunto(15);
+		ConjuntoDisjuntoI conjunto = new ConjuntoDisjuntoLE();
 		List<Integer> entrada = new ArrayList<Integer>();
 		entrada.add(1);
 		entrada.add(2);
