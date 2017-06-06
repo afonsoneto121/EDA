@@ -7,7 +7,7 @@ public class NoAVL {
 
 	public NoAVL(Integer chave) {
 		dir = esq = null;
-		altura = 1;
+		altura = 0;
 		this.chave = chave;
 	}
 	
@@ -34,6 +34,11 @@ public class NoAVL {
 	}
 	public void setChave(Integer chave) {
 		this.chave = chave;
+	}
+
+	@Override
+	public String toString() {
+		return chave.toString();
 	}
 	
 	
