@@ -1,0 +1,24 @@
+Inicio Teste AVL
+Tempo de insercao: 13
+Tempo de busca: 4
+Tempo de remorcao: 6
+Inicio Teste RN
+Tempo de insercao: 16
+Tempo de busca: 8
+Tempo de remorcao: 9
+Inicio Teste Splay
+Tempo de insercao: 9
+Tempo de busca: 4
+Tempo de remorcao: 2
+
+
+
+Inicio Teste AVL
+Mais Busca 16
+Mais Remoção 6
+Inicio Teste RN
+Mais Busca 25
+Mais Remoção 23
+Inicio Teste Splay
+Mais Busca 10
+Mais Remoção 10
